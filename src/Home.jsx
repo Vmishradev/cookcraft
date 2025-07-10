@@ -58,13 +58,13 @@ const Home = () => {
                   transition={{ duration: 0.8, delay: 0.6 }}
                 >
                   <Link
-                    href="/recipes"
+                    to="/recipes"
                     className="px-8 py-4 bg-gradient-to-r from-orange-500 to-red-500 text-white font-semibold rounded-2xl hover:from-orange-600 hover:to-red-600 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
                   >
                     Start Cooking
                   </Link>
                   <Link
-                    href="/recipes"
+                    to="/recipes"
                     className="px-8 py-4 bg-white text-slate-700 font-semibold rounded-2xl border-2 border-slate-200 hover:border-orange-300 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
                   >
                     Learn More
@@ -160,7 +160,7 @@ const Home = () => {
                 </p>
               </div>
               <Link
-                href="/recipes"
+                to="/recipes"
                 className="mt-6 bg-gradient-to-r from-orange-500 to-red-500 text-white font-semibold py-3 px-6 rounded-xl hover:from-orange-600 hover:to-red-600 transform hover:scale-105 transition-all duration-300 text-center"
               >
                 Explore Now
