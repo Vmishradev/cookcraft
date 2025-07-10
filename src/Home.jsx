@@ -4,7 +4,6 @@ import FeatureCards from "./FeaturedCards";
 import { motion } from "framer-motion";
 import hero from "./assets/images/hero.png";
 import logo from "./assets/images/logo.png";
-import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
