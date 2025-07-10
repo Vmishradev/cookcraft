@@ -1,0 +1,806 @@
+{
+  "recipes": {
+    "italian": [
+      {
+        "name": "Spaghetti Carbonara",
+        "difficulty": "Medium",
+        "image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW4zOWI1b3l1NjFlanl0Y3F3NzJpaTNuNW9jMmFsZnF0NmRvOGpqMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ItpdDAhEQgjny/giphy.gif",
+        "cookingTime": 25,
+        "ingredients": [
+          "400g spaghetti",
+          "200g guanciale or pancetta, diced",
+          "4 large eggs",
+          "100g Pecorino Romano cheese, grated",
+          "50g Parmesan cheese, grated",
+          "Freshly ground black pepper",
+          "Salt for pasta water"
+        ],
+        "instructions": [
+          "Bring a large pot of salted water to boil and cook spaghetti according to package instructions.",
+          "In a large skillet, cook guanciale over medium heat until crispy and golden.",
+          "In a bowl, whisk together eggs, Pecorino Romano, Parmesan, and black pepper.",
+          "Reserve 1 cup of pasta water before draining the spaghetti.",
+          "Add hot pasta to the skillet with guanciale and toss to combine.",
+          "Remove from heat and quickly stir in the egg mixture, adding pasta water gradually.",
+          "Toss until creamy and well combined. Serve immediately with extra cheese."
+        ]
+      },
+      {
+        "name": "Margherita Pizza",
+        "difficulty": "Hard",
+        "image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9uaTZiMXhlencwOXRzbjc0eDlpem15MTFmc3B5MGUzb2p2eGRjNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0TM6CAxSkzVKTEorSu/giphy.gif",
+        "cookingTime": 90,
+        "ingredients": [
+          "500g tipo 00 flour",
+          "325ml warm water",
+          "10g salt",
+          "3g active dry yeast",
+          "2 tbsp olive oil",
+          "400g canned San Marzano tomatoes",
+          "300g fresh mozzarella, torn",
+          "Fresh basil leaves",
+          "Extra virgin olive oil for drizzling"
+        ],
+        "instructions": [
+          "Dissolve yeast in warm water and let stand for 5 minutes until foamy.",
+          "Mix flour and salt in a large bowl, create a well in the center.",
+          "Add yeast mixture and olive oil to the well, mix until a dough forms.",
+          "Knead for 10 minutes until smooth and elastic, then place in oiled bowl.",
+          "Cover and let rise for 1-2 hours until doubled in size.",
+          "Crush tomatoes by hand and season with salt and a pinch of sugar.",
+          "Divide dough into 2-3 portions, roll thin and top with sauce and mozzarella.",
+          "Bake at 250°C for 8-10 minutes until crust is golden and cheese is bubbly."
+        ]
+      },
+      {
+        "name": "Risotto Milanese",
+        "difficulty": "Hard",
+        "image_url": "https://i.pinimg.com/1200x/06/4e/d3/064ed3863794b5d0ee63ab413390c216.jpg",
+        "cookingTime": 45,
+        "ingredients": [
+          "320g Arborio rice",
+          "1.5L warm chicken or vegetable stock",
+          "1 medium onion, finely chopped",
+          "150ml dry white wine",
+          "Pinch of saffron threads",
+          "100g Parmesan cheese, grated",
+          "50g butter",
+          "2 tbsp olive oil",
+          "Salt and white pepper to taste"
+        ],
+        "instructions": [
+          "Heat stock in a saucepan and keep warm. Soak saffron in 2 tbsp warm stock.",
+          "Heat olive oil in a heavy-bottomed pan, sauté onion until translucent.",
+          "Add rice and stir for 2 minutes until grains are lightly toasted.",
+          "Pour in wine and stir until absorbed completely.",
+          "Add warm stock one ladle at a time, stirring constantly until absorbed.",
+          "Continue for 18-20 minutes until rice is creamy but still al dente.",
+          "Stir in saffron mixture, butter, and Parmesan cheese.",
+          "Season with salt and pepper, serve immediately."
+        ]
+      },
+      {
+        "name": "Osso Buco",
+        "difficulty": "Hard",
+        "image_url": "https://i.makeagif.com/media/4-17-2018/sQSSh9.gif",
+        "cookingTime": 150,
+        "ingredients": [
+          "4 veal shanks, cut 3cm thick",
+          "2 tbsp plain flour",
+          "3 tbsp olive oil",
+          "1 onion, diced",
+          "2 carrots, diced",
+          "2 celery stalks, diced",
+          "400g canned tomatoes",
+          "250ml dry white wine",
+          "500ml beef stock",
+          "2 bay leaves",
+          "Gremolata: lemon zest, garlic, parsley"
+        ],
+        "instructions": [
+          "Season veal shanks with salt and pepper, dust with flour.",
+          "Heat oil in a heavy casserole, brown shanks on all sides.",
+          "Remove shanks and sauté vegetables until softened.",
+          "Add wine and reduce by half, then add tomatoes and stock.",
+          "Return shanks to pot, add bay leaves and bring to simmer.",
+          "Cover and braise in 160°C oven for 2-2.5 hours until tender.",
+          "Check occasionally and add more stock if needed.",
+          "Serve with gremolata and traditional risotto milanese."
+        ]
+      },
+      {
+        "name": "Tiramisu",
+        "difficulty": "Medium",
+        "image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExandtbmpmcnRscjZkOXF6YTF1ZWFsZWVzYjl6dmgwM3RkOGtpZjJodyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L2mf2cMkd2m7BJCjX7/giphy.gif",
+        "cookingTime": 30,
+        "ingredients": [
+          "6 egg yolks",
+          "150g caster sugar",
+          "500g mascarpone cheese",
+          "400ml strong espresso, cooled",
+          "3 tbsp coffee liqueur (optional)",
+          "2 packets ladyfinger biscuits",
+          "Unsweetened cocoa powder for dusting",
+          "Dark chocolate shavings for garnish"
+        ],
+        "instructions": [
+          "Whisk egg yolks and sugar until thick and pale.",
+          "Beat in mascarpone until smooth and well combined.",
+          "Combine espresso and coffee liqueur in a shallow dish.",
+          "Quickly dip each ladyfinger in coffee mixture and arrange in dish.",
+          "Spread half the mascarpone mixture over the biscuits.",
+          "Repeat with another layer of dipped biscuits and remaining mascarpone.",
+          "Refrigerate for at least 4 hours or overnight.",
+          "Before serving, dust with cocoa powder and add chocolate shavings."
+        ]
+      }
+    ],
+    "asian": [
+      {
+        "name": "Pad Thai",
+        "difficulty": "Medium",
+        "image_url": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlwd2NtZnl3eDY2aWEwdnJvbGNjZWlnMHZubDl5aGk2b2RjMnR0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4Ep5Iaee5pA9Hptu/giphy.gif",
+        "cookingTime": 25,
+        "ingredients": [
+          "200g rice noodles",
+          "200g prawns, peeled",
+          "3 eggs",
+          "100g firm tofu, cubed",
+          "2 tbsp tamarind paste",
+          "2 tbsp fish sauce",
+          "2 tbsp palm sugar",
+          "2 tbsp vegetable oil",
+          "Bean sprouts, peanuts, lime wedges",
+          "Chives, coriander for garnish"
+        ],
+        "instructions": [
+          "Soak rice noodles in warm water until soft, then drain.",
+          "Mix tamarind paste, fish sauce, and palm sugar for the sauce.",
+          "Heat oil in a wok, scramble eggs and set aside.",
+          "Add tofu and prawns to wok, cook until prawns turn pink.",
+          "Add noodles and sauce, toss until noodles are coated.",
+          "Add bean sprouts and scrambled eggs, toss briefly.",
+          "Serve immediately with peanuts, lime wedges, and herbs."
+        ]
+      },
+      {
+        "name": "Chicken Teriyaki",
+        "difficulty": "Easy",
+        "image_url": "https://media.tenor.com/4itUcZCF_LwAAAAM/%E9%9B%9E%E8%85%BFchicken-leg.gif",
+        "cookingTime": 20,
+        "ingredients": [
+          "4 chicken thighs, boneless",
+          "4 tbsp soy sauce",
+          "4 tbsp mirin",
+          "2 tbsp sake",
+          "2 tbsp sugar",
+          "1 tbsp vegetable oil",
+          "1 tsp cornstarch",
+          "Sesame seeds for garnish",
+          "Steamed rice for serving"
+        ],
+        "instructions": [
+          "Mix soy sauce, mirin, sake, and sugar for teriyaki sauce.",
+          "Heat oil in a pan, cook chicken skin-side down until crispy.",
+          "Flip chicken and cook until done, about 6-8 minutes total.",
+          "Remove chicken and add teriyaki sauce to pan.",
+          "Mix cornstarch with water and add to thicken sauce.",
+          "Return chicken to pan and coat with sauce.",
+          "Slice chicken and serve over rice with sesame seeds."
+        ]
+      },
+      {
+        "name": "Ramen",
+        "difficulty": "Hard",
+        "image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXY4eTNicW9tdDVsYzFmeXBpeHVnY3J3YWU2aWEzcnc5dDlxeGZqbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/J8G3NaPq66gp2/giphy.gif",
+        "cookingTime": 240,
+        "ingredients": [
+          "2 pork bones",
+          "1 chicken carcass",
+          "200g pork belly",
+          "4 portions fresh ramen noodles",
+          "4 soft-boiled eggs",
+          "2 tbsp miso paste",
+          "2 tbsp soy sauce",
+          "Green onions, nori, bamboo shoots",
+          "Garlic, ginger, onion"
+        ],
+        "instructions": [
+          "Simmer bones and chicken in water for 4-6 hours for rich broth.",
+          "Strain broth and season with miso and soy sauce.",
+          "Cook pork belly until tender, slice thin.",
+          "Prepare soft-boiled eggs and slice in half.",
+          "Cook ramen noodles according to package instructions.",
+          "Assemble bowls with noodles, pour hot broth over.",
+          "Top with pork, eggs, and vegetables."
+        ]
+      },
+      {
+        "name": "Sushi Rolls",
+        "difficulty": "Hard",
+        "image_url": "https://cdn.shopify.com/s/files/1/0425/2699/8690/files/Mesmerizing_Sushi_Gifs_Are_Making_Us_Hungry_8_480x480.gif?v=1652817586",
+        "cookingTime": 60,
+        "ingredients": [
+          "2 cups sushi rice",
+          "3 tbsp rice vinegar",
+          "1 tbsp sugar",
+          "1 tsp salt",
+          "4 nori sheets",
+          "Fresh sashimi-grade fish",
+          "Cucumber, avocado",
+          "Wasabi, pickled ginger",
+          "Soy sauce for dipping"
+        ],
+        "instructions": [
+          "Cook sushi rice and season with vinegar, sugar, and salt mixture.",
+          "Let rice cool to room temperature.",
+          "Place nori on bamboo mat, spread rice evenly leaving 1cm border.",
+          "Add fish and vegetables in a line across the rice.",
+          "Roll tightly using the mat, sealing the edge with water.",
+          "Cut into 6-8 pieces with a sharp, wet knife.",
+          "Serve with wasabi, ginger, and soy sauce."
+        ]
+      },
+      {
+        "name": "Korean Bibimbap",
+        "difficulty": "Medium",
+        "image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFpa243OWdkdDc2aDJ5eTA5NmZqczRhMng0aWEwbnh0eTN3YjU3ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SLspYPVNCYvTi/giphy.gif",
+        "cookingTime": 45,
+        "ingredients": [
+          "2 cups cooked rice",
+          "200g beef, thinly sliced",
+          "Mixed vegetables: spinach, carrots, mushrooms",
+          "4 eggs",
+          "2 tbsp gochujang",
+          "2 tbsp sesame oil",
+          "2 tbsp soy sauce",
+          "1 tbsp sugar",
+          "Sesame seeds for garnish"
+        ],
+        "instructions": [
+          "Marinate beef in soy sauce, sugar, and sesame oil.",
+          "Blanch and season vegetables separately with sesame oil and salt.",
+          "Cook beef until done and set aside.",
+          "Fry eggs sunny-side up.",
+          "Arrange rice in bowls, top with vegetables, beef, and egg.",
+          "Serve with gochujang on the side.",
+          "Mix everything together before eating."
+        ]
+      }
+    ],
+    "mexican": [
+      {
+        "name": "Tacos al Pastor",
+        "difficulty": "Medium",
+        "image_url": "https://i.pinimg.com/originals/08/b1/df/08b1dfc681d82e26bd6bd97d7edc04ca.gif",
+        "cookingTime": 35,
+        "ingredients": [
+          "500g pork shoulder, sliced thin",
+          "3 dried guajillo chiles",
+          "2 dried ancho chiles",
+          "1 onion, quartered",
+          "3 cloves garlic",
+          "1 tbsp achiote paste",
+          "12 corn tortillas",
+          "White onion, diced",
+          "Cilantro, chopped",
+          "Pineapple, diced",
+          "Lime wedges"
+        ],
+        "instructions": [
+          "Toast chiles in a dry pan until fragrant, then soak in hot water.",
+          "Blend soaked chiles with garlic, onion, and achiote paste.",
+          "Marinate pork in chile mixture for at least 2 hours.",
+          "Cook pork in a hot pan until caramelized and cooked through.",
+          "Warm tortillas on a comal or dry pan.",
+          "Fill tortillas with pork, top with onion, cilantro, and pineapple.",
+          "Serve with lime wedges and your favorite salsa."
+        ]
+      },
+      {
+        "name": "Guacamole",
+        "difficulty": "Easy",
+        "image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI1endkajg2N2ltM21uemNkaTNybGY2d3lsOHB6cDIwNG81Y3NvaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1QkXJQC0sIJjEtz0GF/giphy.gif",
+        "cookingTime": 10,
+        "ingredients": [
+          "4 ripe avocados",
+          "1 small white onion, finely diced",
+          "2 Roma tomatoes, diced",
+          "3 cloves garlic, minced",
+          "2 jalapeños, minced",
+          "Juice of 2 limes",
+          "1/4 cup cilantro, chopped",
+          "Salt to taste",
+          "Tortilla chips for serving"
+        ],
+        "instructions": [
+          "Cut avocados in half, remove pits and scoop flesh into a bowl.",
+          "Mash avocados with a fork, leaving some chunks for texture.",
+          "Add lime juice immediately to prevent browning.",
+          "Mix in onion, tomatoes, garlic, and jalapeños.",
+          "Add cilantro and season with salt to taste.",
+          "Let stand for 30 minutes to allow flavors to meld.",
+          "Serve with tortilla chips or as a topping."
+        ]
+      },
+      {
+        "name": "Chicken Enchiladas",
+        "difficulty": "Medium",
+        "image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d4N3cwZzkwZTR2bGt6d2Ftb2kzMWVicHA5djlmb3NkYmNsa2I1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1162tEY0PxUYSc/giphy.gif",
+        "cookingTime": 50,
+        "ingredients": [
+          "12 corn tortillas",
+          "500g cooked chicken, shredded",
+          "200g cheese, grated",
+          "1 onion, diced",
+          "3 tbsp enchilada sauce",
+          "2 tbsp vegetable oil",
+          "1 tsp cumin",
+          "1 tsp chili powder",
+          "Sour cream, cilantro for garnish"
+        ],
+        "instructions": [
+          "Preheat oven to 190°C and grease a baking dish.",
+          "Mix chicken with half the cheese, onion, and spices.",
+          "Warm tortillas to make them pliable.",
+          "Fill each tortilla with chicken mixture and roll tightly.",
+          "Place seam-side down in baking dish.",
+          "Top with enchilada sauce and remaining cheese.",
+          "Bake for 25-30 minutes until cheese is melted and bubbly.",
+          "Garnish with sour cream and cilantro before serving."
+        ]
+      },
+      {
+        "name": "Chiles Rellenos",
+        "difficulty": "Hard",
+        "image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFldmgwYnE5dmZwZm8xZ2h1djIxeWdiOGM3bmlrZTI2bjBlbW9kdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0Ex9Z77pfd929ZLO/giphy.gif",
+        "cookingTime": 45,
+        "ingredients": [
+          "6 large poblano chiles",
+          "300g Monterey Jack cheese, cut into strips",
+          "6 eggs, separated",
+          "1/4 cup all-purpose flour",
+          "Vegetable oil for frying",
+          "Tomato sauce for serving",
+          "Salt to taste"
+        ],
+        "instructions": [
+          "Char poblanos over open flame until skins are blackened.",
+          "Place in plastic bag for 10 minutes, then peel off skins.",
+          "Make a small slit and remove seeds, stuff with cheese.",
+          "Beat egg whites until stiff peaks form, fold in yolks.",
+          "Coat chiles in flour, then dip in egg batter.",
+          "Fry in hot oil until golden brown on all sides.",
+          "Drain on paper towels and serve with warm tomato sauce."
+        ]
+      },
+      {
+        "name": "Pozole Rojo",
+        "difficulty": "Hard",
+        "image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1jZGIzc3g3dWdmdTMxaTFqcTlhOW0zb3ZhbzVrMGt0bzlrbmc4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0ExhVqjce0eTLzpK/giphy.gif",
+        "cookingTime": 180,
+        "ingredients": [
+          "1kg pork shoulder, cut in chunks",
+          "500g pork bones",
+          "2 cans hominy, drained",
+          "6 dried guajillo chiles",
+          "3 dried ancho chiles",
+          "1 onion, quartered",
+          "4 cloves garlic",
+          "Cabbage, radishes, oregano",
+          "Lime wedges for serving"
+        ],
+        "instructions": [
+          "Simmer pork and bones in water for 2 hours until tender.",
+          "Remove meat, shred when cool, and strain broth.",
+          "Toast chiles, soak in hot water, then blend with garlic and onion.",
+          "Strain chile mixture and add to pork broth.",
+          "Add shredded pork and hominy to broth.",
+          "Simmer for 30 minutes, season with salt.",
+          "Serve with fresh garnishes and lime wedges."
+        ]
+      }
+    ],
+    "mediterranean": [
+      {
+        "name": "Greek Moussaka",
+        "difficulty": "Hard",
+        "image_url": "https://i.pinimg.com/originals/6d/2d/7e/6d2d7e84d9bb03ab46775ccb25931033.gif",
+        "cookingTime": 120,
+        "ingredients": [
+          "2 large eggplants, sliced",
+          "500g ground lamb",
+          "1 onion, diced",
+          "400g canned tomatoes",
+          "2 tbsp tomato paste",
+          "1/2 cup red wine",
+          "500ml béchamel sauce",
+          "100g kefalotyri cheese, grated",
+          "Olive oil, cinnamon, oregano"
+        ],
+        "instructions": [
+          "Slice eggplants, salt and let drain for 30 minutes.",
+          "Brush with olive oil and grill until golden.",
+          "Cook lamb with onion until browned, add tomatoes and wine.",
+          "Simmer for 30 minutes, season with cinnamon and oregano.",
+          "Layer eggplant and meat sauce in baking dish.",
+          "Top with béchamel sauce and cheese.",
+          "Bake at 180°C for 45 minutes until golden.",
+          "Rest for 10 minutes before serving."
+        ]
+      },
+      {
+        "name": "Paella Valenciana",
+        "difficulty": "Hard",
+        "image_url": "https://media.tenor.com/6oBhWrwd6gsAAAAM/feliz-domingo-paella.gif",
+        "cookingTime": 60,
+        "ingredients": [
+          "400g bomba rice",
+          "1 chicken, cut into pieces",
+          "200g rabbit (optional)",
+          "200g green beans",
+          "200g lima beans",
+          "1 red pepper, sliced",
+          "4 tomatoes, grated",
+          "1L chicken stock",
+          "Saffron threads",
+          "Olive oil, garlic, rosemary"
+        ],
+        "instructions": [
+          "Heat olive oil in paella pan, brown chicken and rabbit.",
+          "Add vegetables and cook until tender.",
+          "Add grated tomato and cook until reduced.",
+          "Add rice and stir to coat with sofrito.",
+          "Add hot stock infused with saffron.",
+          "Simmer without stirring for 15-20 minutes.",
+          "Rest for 5 minutes before serving.",
+          "Garnish with lemon wedges and rosemary."
+        ]
+      },
+      {
+        "name": "Falafel",
+        "difficulty": "Medium",
+        "image_url": "https://hips.hearstapps.com/delish/assets/17/28/1499963205-1sfzsy.gif",
+        "cookingTime": 30,
+        "ingredients": [
+          "400g dried chickpeas, soaked overnight",
+          "1 onion, quartered",
+          "4 cloves garlic",
+          "1/4 cup parsley",
+          "1 tsp ground coriander",
+          "1 tsp ground cumin",
+          "1/2 tsp cayenne pepper",
+          "2 tbsp flour",
+          "Oil for deep frying",
+          "Tahini sauce for serving"
+        ],
+        "instructions": [
+          "Drain chickpeas and pat dry completely.",
+          "Pulse chickpeas in food processor until coarsely ground.",
+          "Add onion, garlic, herbs, and spices, pulse to combine.",
+          "Add flour and pulse briefly to bind.",
+          "Form mixture into small balls with damp hands.",
+          "Deep fry in hot oil until golden brown and crispy.",
+          "Drain on paper towels and serve hot.",
+          "Serve with tahini sauce and pita bread."
+        ]
+      },
+      {
+        "name": "Hummus",
+        "difficulty": "Easy",
+        "image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGppNGJmazQzMng5b2VzZjRrMGRiajZmMTR2cjRnc3l2N20ydjZ5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aWZmVjWSXJIWOkrWJo/giphy.gif",
+        "cookingTime": 15,
+        "ingredients": [
+          "400g canned chickpeas, drained",
+          "1/4 cup tahini",
+          "1/4 cup lemon juice",
+          "1 clove garlic, minced",
+          "2 tbsp extra virgin olive oil",
+          "1/2 tsp ground cumin",
+          "Salt to taste",
+          "Paprika for garnish",
+          "Pita bread for serving"
+        ],
+        "instructions": [
+          "Reserve a few chickpeas for garnish.",
+          "Blend remaining chickpeas in food processor until smooth.",
+          "Add tahini, lemon juice, garlic, and cumin.",
+          "Blend until creamy, adding water if needed.",
+          "Taste and adjust seasoning with salt and lemon.",
+          "Transfer to serving bowl and drizzle with olive oil.",
+          "Garnish with reserved chickpeas and paprika.",
+          "Serve with warm pita bread."
+        ]
+      },
+      {
+        "name": "Tzatziki",
+        "difficulty": "Easy",
+        "image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXR5bzFmemt1Z3Q0NzcxODFlbjUzMDkzZTd6ZDU0aXl3OXU0aXJ4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jYNMyY4rh1WwfnMcEh/giphy.gif",
+        "cookingTime": 20,
+        "ingredients": [
+          "500g Greek yogurt",
+          "2 cucumbers, grated",
+          "3 cloves garlic, minced",
+          "2 tbsp olive oil",
+          "1 tbsp white wine vinegar",
+          "2 tbsp fresh dill, chopped",
+          "Salt and pepper to taste",
+          "Pita bread and vegetables for serving"
+        ],
+        "instructions": [
+          "Grate cucumbers and squeeze out excess moisture using kitchen towel.",
+          "Mix yogurt with minced garlic in a bowl.",
+          "Add drained cucumbers, olive oil, and vinegar.",
+          "Stir in fresh dill and season with salt and pepper.",
+          "Refrigerate for at least 2 hours to allow flavors to meld.",
+          "Adjust seasoning before serving.",
+          "Serve as a dip with pita bread and fresh vegetables.",
+          "Can also be used as a sauce for grilled meats."
+        ]
+      }
+    ],
+    "indian": [
+      {
+        "name": "Chicken Tikka Masala",
+        "difficulty": "Medium",
+        "image_url": "https://media.tenor.com/-qoSO4-jtsMAAAAM/butter-chicken-indian-food.gif",
+        "cookingTime": 60,
+        "ingredients": [
+          "500g chicken breast, cubed",
+          "200ml Greek yogurt",
+          "2 tbsp tikka masala paste",
+          "1 onion, sliced",
+          "400ml coconut milk",
+          "400g canned tomatoes",
+          "2 tbsp ghee",
+          "1 tsp garam masala",
+          "Fresh coriander for garnish",
+          "Basmati rice for serving"
+        ],
+        "instructions": [
+          "Marinate chicken in yogurt and half the tikka paste for 2 hours.",
+          "Cook chicken in a hot pan until charred and cooked through.",
+          "In same pan, cook onion until soft and golden.",
+          "Add remaining tikka paste and cook for 1 minute.",
+          "Add tomatoes and simmer until reduced.",
+          "Add coconut milk and garam masala, simmer for 10 minutes.",
+          "Return chicken to sauce and heat through.",
+          "Garnish with coriander and serve with rice."
+        ]
+      },
+      {
+        "name": "Biryani",
+        "difficulty": "Hard",
+        "image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNocW8wMjE4MjN0eG9sc3A4YzZzY2hxeGN1ajYwMjNvcGlvbHZ4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rVIka1U4ZHTP0BgHww/giphy.gif",
+        "cookingTime": 90,
+        "ingredients": [
+          "500g basmati rice",
+          "750g mutton or chicken, cut into pieces",
+          "200ml yogurt",
+          "2 onions, sliced and fried",
+          "1 tsp saffron soaked in warm milk",
+          "2 tbsp ghee",
+          "Whole spices: cardamom, cinnamon, cloves",
+          "2 tbsp biryani masala",
+          "Fresh mint and coriander leaves"
+        ],
+        "instructions": [
+          "Marinate meat in yogurt and biryani masala for 2 hours.",
+          "Soak rice for 30 minutes, then boil with whole spices until 70% done.",
+          "Cook marinated meat until tender.",
+          "Layer rice and meat in heavy-bottomed pot.",
+          "Sprinkle fried onions, saffron milk, and herbs between layers.",
+          "Cover tightly and cook on high heat for 5 minutes.",
+          "Reduce heat and cook for 45 minutes on low heat.",
+          "Rest for 10 minutes before serving."
+        ]
+      },
+      {
+        "name": "Dal Tadka",
+        "difficulty": "Easy",
+        "image_url": "https://media.tenor.com/36gGhF6oRfYAAAAM/preparing-dal.gif",
+        "cookingTime": 30,
+        "ingredients": [
+          "200g yellow lentils (toor dal)",
+          "1 onion, chopped",
+          "3 tomatoes, chopped",
+          "3 cloves garlic, minced",
+          "1 tsp ginger, minced",
+          "2 green chilies, slit",
+          "1 tsp turmeric",
+          "1 tsp cumin seeds",
+          "2 tbsp ghee",
+          "Coriander leaves for garnish"
+        ],
+        "instructions": [
+          "Wash and cook lentils with turmeric until soft and mushy.",
+          "Heat ghee in a pan, add cumin seeds until they splutter.",
+          "Add garlic, ginger, and green chilies, sauté briefly.",
+          "Add onion and cook until golden brown.",
+          "Add chopped tomatoes, cook until soft and oil separates.",
+          "Pour cooked lentils into the pan and mix well.",
+          "Simmer for 5 minutes and adjust seasoning.",
+          "Garnish with coriander leaves and serve hot with rice or roti."
+        ]
+      },
+      {
+        "name": "Paneer Butter Masala",
+        "difficulty": "Medium",
+        "image_url": "https://notacurry.com/wp-content/uploads/2014/12/Best-paneer-butter-masala-recipe.gif",
+        "cookingTime": 40,
+        "ingredients": [
+          "250g paneer, cubed",
+          "2 tbsp butter",
+          "2 tbsp cream",
+          "2 onions, finely chopped",
+          "3 tomatoes, pureed",
+          "1 tsp ginger-garlic paste",
+          "1 tsp garam masala",
+          "1 tsp red chili powder",
+          "1 tbsp kasuri methi (dried fenugreek leaves)",
+          "Salt to taste"
+        ],
+        "instructions": [
+          "Heat butter in a pan, sauté onions until golden.",
+          "Add ginger-garlic paste, cook until fragrant.",
+          "Add tomato puree, red chili powder, and cook until oil separates.",
+          "Add paneer cubes and mix gently.",
+          "Add cream, garam masala, and kasuri methi.",
+          "Simmer for 5 minutes and adjust seasoning.",
+          "Serve hot with naan or roti."
+        ]
+      },
+      {
+        "name": "Gulab Jamun",
+        "difficulty": "Medium",
+        "image_url": "https://media.tenor.com/61cvi_mXw58AAAAM/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC-%E0%A4%9C%E0%A4%BE%E0%A4%AE%E0%A5%81%E0%A4%A8.gif",
+        "cookingTime": 50,
+        "ingredients": [
+          "200g khoya (milk solids)",
+          "50g all-purpose flour",
+          "1/4 tsp baking soda",
+          "2 cups sugar",
+          "2 cups water",
+          "1/4 tsp cardamom powder",
+          "Ghee or oil for frying",
+          "Rose water (optional)"
+        ],
+        "instructions": [
+          "Mix khoya, flour, and baking soda to form a soft dough.",
+          "Make small balls and ensure no cracks.",
+          "Heat ghee in a pan, fry balls on low heat until golden brown.",
+          "Prepare sugar syrup with water, sugar, and cardamom powder.",
+          "Add fried balls to warm syrup and let soak for 1 hour.",
+          "Serve warm or chilled as desired."
+        ]
+      }
+    ],
+    "american": [
+      {
+        "name": "Cheeseburger",
+        "difficulty": "Easy",
+        "image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzlta2lsaW1oZ3Q2cTU3ZmF2cTFibHU1amN4Zmw5YmRhOW5zNHhsMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WtCHRSPCuqS8E/giphy.gif",
+        "cookingTime": 20,
+        "ingredients": [
+          "500g ground beef",
+          "4 burger buns",
+          "4 slices cheddar cheese",
+          "1 onion, sliced",
+          "Lettuce leaves",
+          "Tomato slices",
+          "Ketchup, mustard, mayonnaise",
+          "Salt and pepper"
+        ],
+        "instructions": [
+          "Season ground beef with salt and pepper, form into 4 patties.",
+          "Heat a grill or skillet over medium-high heat.",
+          "Cook patties for 3-4 minutes per side until desired doneness.",
+          "Place a slice of cheese on each patty during the last minute of cooking.",
+          "Toast burger buns lightly on the grill.",
+          "Assemble burgers with lettuce, tomato, onion, and sauces.",
+          "Serve hot with fries or coleslaw."
+        ]
+      },
+      {
+        "name": "Buffalo Wings",
+        "difficulty": "Medium",
+        "image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlyOTNybjdkZ2hvczFoemI2M2x6bzh6dXZ5MXQ4MjAwNGVtenFkdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cjPZFfOTMee2BUp0CU/giphy.gif",
+        "cookingTime": 45,
+        "ingredients": [
+          "1kg chicken wings",
+          "100g unsalted butter",
+          "100ml hot sauce",
+          "2 tbsp honey",
+          "1 tbsp white vinegar",
+          "Salt and pepper",
+          "Vegetable oil for frying",
+          "Celery sticks and blue cheese dip for serving"
+        ],
+        "instructions": [
+          "Heat oil in a deep fryer or large pot to 180°C.",
+          "Season wings with salt and pepper, fry in batches until crispy and golden.",
+          "In a saucepan, melt butter and mix with hot sauce, honey, and vinegar.",
+          "Toss fried wings in sauce until coated evenly.",
+          "Serve immediately with celery sticks and blue cheese dip."
+        ]
+      },
+      {
+        "name": "Apple Pie",
+        "difficulty": "Medium",
+        "image_url": "https://media.tenor.com/3FXj0DDsIksAAAAM/pie-apple-pie.gif",
+        "cookingTime": 90,
+        "ingredients": [
+          "2 pie crusts (homemade or store-bought)",
+          "6 medium apples, peeled and sliced",
+          "150g granulated sugar",
+          "2 tbsp all-purpose flour",
+          "1 tsp ground cinnamon",
+          "1/4 tsp ground nutmeg",
+          "1 tbsp lemon juice",
+          "1 egg, beaten (for egg wash)",
+          "2 tbsp unsalted butter"
+        ],
+        "instructions": [
+          "Preheat oven to 200°C.",
+          "Toss apple slices with sugar, flour, cinnamon, nutmeg, and lemon juice.",
+          "Line a pie dish with one crust, fill with apple mixture, and dot with butter.",
+          "Cover with second crust, seal edges, and cut small slits for steam.",
+          "Brush top crust with egg wash.",
+          "Bake for 45-50 minutes until golden brown.",
+          "Cool slightly before serving with vanilla ice cream."
+        ]
+      },
+      {
+        "name": "Clam Chowder",
+        "difficulty": "Medium",
+        "image_url": "https://media.tenor.com/S3V8xFvmZtAAAAAM/%EC%8B%9D%ED%92%88%EA%B0%80%EA%B3%B5.gif",
+        "cookingTime": 40,
+        "ingredients": [
+          "500g clams, cleaned",
+          "2 slices bacon, diced",
+          "1 onion, diced",
+          "2 celery stalks, diced",
+          "2 medium potatoes, peeled and diced",
+          "500ml clam juice or fish stock",
+          "250ml heavy cream",
+          "2 tbsp butter",
+          "Salt and pepper to taste",
+          "Chopped parsley for garnish"
+        ],
+        "instructions": [
+          "Cook bacon in a large pot until crispy, remove and set aside.",
+          "Add butter to pot and sauté onion and celery until soft.",
+          "Add potatoes and clam juice, simmer until potatoes are tender.",
+          "Stir in clams and cream, cook for 5 minutes until clams open.",
+          "Season with salt and pepper, garnish with parsley and bacon bits.",
+          "Serve hot with crusty bread."
+        ]
+      },
+      {
+        "name": "Pancakes",
+        "difficulty": "Easy",
+        "image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjV0aXdicG12M3A3eGFiOWFuMmltdnFyZmlmMG5iOTdiNW83ZGxwdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5zu5JovduWFBS/giphy.gif",
+        "cookingTime": 20,
+        "ingredients": [
+          "200g all-purpose flour",
+          "2 tbsp sugar",
+          "1 tsp baking powder",
+          "1/2 tsp baking soda",
+          "1/2 tsp salt",
+          "250ml buttermilk",
+          "1 egg",
+          "2 tbsp melted butter",
+          "Maple syrup and fresh berries for serving"
+        ],
+        "instructions": [
+          "Whisk together flour, sugar, baking powder, baking soda, and salt.",
+          "In another bowl, mix buttermilk, egg, and melted butter.",
+          "Combine wet and dry ingredients, stir until just combined.",
+          "Heat a non-stick skillet over medium heat, lightly grease with butter.",
+          "Pour batter onto skillet, cook until bubbles form on surface, flip and cook other side.",
+          "Serve warm with maple syrup and berries."
+        ]
+      }
+    ]
+  }
+}
