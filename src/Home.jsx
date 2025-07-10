@@ -4,6 +4,7 @@ import FeatureCards from "./FeaturedCards";
 import { motion } from "framer-motion";
 import hero from "./assets/images/hero.png";
 import logo from "./assets/images/logo.png";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -56,18 +57,18 @@ const Home = () => {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.8, delay: 0.6 }}
                 >
-                  <a
+                  <Link
                     href="/recipes"
                     className="px-8 py-4 bg-gradient-to-r from-orange-500 to-red-500 text-white font-semibold rounded-2xl hover:from-orange-600 hover:to-red-600 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
                   >
                     Start Cooking
-                  </a>
-                  <a
+                  </Link>
+                  <Link
                     href="/recipes"
                     className="px-8 py-4 bg-white text-slate-700 font-semibold rounded-2xl border-2 border-slate-200 hover:border-orange-300 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
                   >
                     Learn More
-                  </a>
+                  </Link>
                 </motion.div>
               </motion.div>
 
@@ -158,12 +159,12 @@ const Home = () => {
                   Perfect for beginners to master chefs.
                 </p>
               </div>
-              <a
+              <Link
                 href="/recipes"
                 className="mt-6 bg-gradient-to-r from-orange-500 to-red-500 text-white font-semibold py-3 px-6 rounded-xl hover:from-orange-600 hover:to-red-600 transform hover:scale-105 transition-all duration-300 text-center"
               >
                 Explore Now
-              </a>
+              </Link>
             </div>
 
             <div className="w-96 relative bg-white rounded-3xl p-8 shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 flex flex-col justify-between">
